@@ -325,7 +325,7 @@ $(document).ready(function () {
         //     datatype: "json",
         //     success: function (data) {
                 //var roX = JSON.parse(data);
-                var roX = {"s2_i_t":"Select the amount of Gems","s2_rb_t":"Selected Amount","s2_bt":"Proceed","jsra":"2800","jsri":"assets\/img\/bjbbh-removebg-preview.png","r1":"2800","r2":"5000","r3":"10000","r4":"15000","ri1":"assets\/img\/bjbbh-removebg-preview.png","ri2":"assets\/img\/bjbbh-removebg-preview.png","ri3":"assets\/img\/bjbbh-removebg-preview.png","ri4":"assets\/img\/bjbbh-removebg-preview.png","rl1":"Spins","rl2":"Spins","rl3":"Spins","rl4":"Spins"}
+                var roX = {"s2_i_t":"Select the amount of Gems","s2_rb_t":"Selected Amount","s2_bt":"Proceed","jsra":"2800","jsri":"assets\/img\/bjbbh-removebg-preview.png","r1":"2800","r2":"5000","r3":"10000","r4":"12000","ri1":"assets\/img\/bjbbh-removebg-preview.png","ri2":"assets\/img\/bjbbh-removebg-preview.png","ri3":"assets\/img\/bjbbh-removebg-preview.png","ri4":"assets\/img\/bjbbh-removebg-preview.png","rl1":"Spins","rl2":"Spins","rl3":"Spins","rl4":"Spins"}
 
 
                 gS("gerr", function (src) {
